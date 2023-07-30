@@ -7,4 +7,4 @@ while user_input != 'exit':
 print('Goodby!')
 
 
-we are now copmpete now you can make a program or write to do list application 
+we are now complete now you can make a program or write to do list application 
